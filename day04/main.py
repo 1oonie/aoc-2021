@@ -1,3 +1,5 @@
+# https://adventofcode.com/2021/day/4
+
 from typing import NamedTuple
 
 class Input(NamedTuple):
